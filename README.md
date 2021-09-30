@@ -1,9 +1,10 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Data Cleaning in Python Essential Training
+This is the repository for the LinkedIn Learning course Data Cleaning in Python Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Data Cleaning in Python Essential Training][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+Do you need to understand how to keep data clean and well-organized for your company? In this course, instructor Miki Tebeka explains why clean data is so important, what can cause errors, and how to detect, prevent, and fix errors to keep your data clean. Miki explains the types of errors that can occur in data, as well as missing values or bad values in the data. He goes over how human errors, machine-introduced errors, and design errors can find their way into your data, then shows you how to detect these errors. Miki dives into error prevention, with techniques like digital signatures, data pipelines and automation, and transactions. He concludes with ways you can fix errors, including renaming fields, fixing types, joining and splitting data, and more.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -21,7 +22,7 @@ To resolve this issue:
 	
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
-
+	
 ## Installing
 1. To use these exercise files, you must have the following installed:
 	- Python 3.6 and up
@@ -30,8 +31,16 @@ To resolve this issue:
     - `python -m pip install -r requirements.txt`
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Miki Tebeka 
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/miki-tebeka).
+
+[lil-course-url]: https://www.linkedin.com/learning/data-cleaning-in-python-essential-training
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2883183/2883183-1632766207382-16x9.jpg
+
+
+
 
